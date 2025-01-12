@@ -8,7 +8,7 @@ psycopg2==2.9.6                 # PostgreSQL database adapter
 cryptography==41.0.0            # Cryptographic operations (encryption, signing)
 
 # Blockchain and Smart Contract Interaction
-web3==6.5.0                     # Interact with Ethereum blockchain and smart contracts
+web3==6.5.0                     # Interact with Ethereum  blockchain and smart contracts
 eth-brownie==1.18.1             # Ethereum development framework
 solcx==0.15.2                   # Solidity compiler
 
